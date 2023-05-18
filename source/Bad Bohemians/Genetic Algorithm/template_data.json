@@ -1,0 +1,672 @@
+{
+  "Ladies' Fortnightly is shocked to unmask 'England's Last Highway#Culprit::Gender#', bane of #A::Domain# and blight of #B::Domain#, as none other than #Culprit::Christian Name# #Culprit::Family Name#, #Culprit::Nobility# of #Culprit::Domain#. Reader, join us in demanding a most expedient hanging!": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONTINUED AMBUSHES OF THE BLOODY BRIGAND" ]
+    ]
+  },
+  "The sole survivor of what Ladies' Fortnightly now calls `The #Location A::Domain# Ordeal' brings forward cast-iron evidence the assailant could only be a #Accused A::Family Name# or a #Accused B::Family Name#. A #Witness::Nobility# enthusiastically attests to #Alibi A::Christian Name#'s whereabouts, whilst #Alibi B::Christian Name# places oneself vaguely in #Location B::Domain# on them night of the attack; Reader, know that our humble journal would *never* call either party's sincerity into question...": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONTINUED AMBUSHES OF THE BLOODY BRIGAND" ]
+    ],
+    "Suspect": [
+
+    ],
+    "Witness": [
+
+    ],
+    "Extra A": [
+
+    ],
+    "Extra B": [
+
+    ],
+    "Accused A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Suspect" ]
+    ],
+    "Accused B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Suspect" ],
+      [ "TEMPLATE ID", "!=", "Accused A" ]
+    ],
+    "Alibi A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Suspect" ]
+    ],
+    "Alibi B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Suspect" ],
+      [ "TEMPLATE ID", "!=", "Alibi A" ]
+    ],
+    "Location A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Suspect/Witness/Extra A" ]
+    ],
+    "Location B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Suspect/Witness/Extra B" ],
+      [ "TEMPLATE ID", "!=", "Location A" ]
+    ]
+  },
+  "Reader, has the scourge of the highyway bandit returned to our green and pleasant land? In rote commute from #Location A::Domain# to #Location B::Domain#, #Survivor::Nobility# #Survivor::Family Name# and company are brought low and relieved of 'an artifact of singular familial import'. Multiple eye-witnesses identify their assailants as a frankly dashing young #Culprit::Gender# - a young #Culprit::Gender# who (as lesser journals have it) carries oneself with that unimpeachable air of nobility...": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONTINUED AMBUSHES OF THE BLOODY BRIGAND" ]
+    ],
+    "Survivor": [
+      [ "Domain", "=>", "Location A::Domain/Location B::Domain" ]
+    ],
+    "Extra": [
+
+    ],
+    "Location A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Survivor/Extra" ]
+    ],
+    "Location B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Survivor/Extra" ],
+      [ "TEMPLATE ID", "!=", "Location A" ]
+    ]
+  },
+  "Intrigue abounds in #Location::Domain#, as the mysterious `Gallant Georgie' pulls of another audacious heist! In private, the good families #Accuser A::Family Name# and #Accuser B::Family Name# are (given one player involved's immediate connection to the county) quick to blame a certain neighbour, with the #Writer::Nobility# even agreeing \"The gallows are too good for one such as #Accused::Nobility# XXXX\" in recently-obtained correspondences.": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONTINUED AMBUSHES OF THE BLOODY BRIGAND" ]
+    ],
+    "Family A": [
+
+    ],
+    "Family B": [
+
+    ],
+    "Accuser A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Family A/Family B" ]
+    ],
+    "Accuser B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Family A/Family B" ],
+      [ "TEMPLATE ID", "!=", "Accuser A" ]
+    ],
+    "Writer": [
+      [ "TEMPLATE ID", "=>", "Culprit/Family A/Family B" ],
+      [ "Family Name", "=>", "Accuser A::Family Name/Accuser B::Family Name" ]
+    ],
+    "Accused": [
+      [ "TEMPLATE ID", "=>", "Culprit/Family A/Family B" ],
+      [ "TEMPLATE ID", "!=", "Accuser A/Accuser B" ]
+    ],
+    "Location": [
+      [ "TEMPLATE ID", "=>", "Culprit/Family A/Family B" ]
+    ]
+  },
+  "Ladies' Fortnightly receives (through perfectly legitmate means!) a heavily-redacted report filed with one Henson & Henson Underwriters. The claimant, identified only as #Accuser::Christian Name#, recounts: \"Returning home from #Host::Nobility# #Host::Family Name#'s--Riding alone, no one could have known my whereabouts--Approached the fork between #Location A::Domain#, #Location B::Domain# and #Location C::Domain#--Must have been that blasted bandit everyone's so afraid of--Could barely see them in the dark--Accent sounded proper, but a twinge of #Accused::Domain#?--In conclusion, need one-hundred pounds.\"": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONTINUED AMBUSHES OF THE BLOODY BRIGAND" ]
+    ],
+    "Innocent": [
+
+    ],
+    "Liar": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ]
+    ],
+    "Extra": [
+
+    ],
+    "Accuser": [
+      [ "TEMPLATE ID", "=>", "Innocent/Liar" ],
+      [ "Domain", "=>", "Location A::Domain/Location B::Domain/Location C::Domain" ]
+
+    ],
+    "Accused": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent" ],
+      [ "TEMPLATE ID", "!=", "Accuser" ]
+    ],
+    "Host": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent/Liar/Extra" ],
+      [ "TEMPLATE ID", "!=", "Accuser" ],
+      [ "Domain", "=>", "Location A::Domain/Location B::Domain/Location C::Domain" ]
+    ],
+    "Location A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent/Liar/Extra" ]
+    ],
+    "Location B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent/Liar/Extra" ],
+      [ "TEMPLATE ID", "!=", "Location A" ]
+    ],
+    "Location C": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent/Liar/Extra" ],
+      [ "TEMPLATE ID", "!=", "Location A/Location B" ]
+    ]
+  },
+  "In an exclusive memorandum to Ladies' Fortnightly, the #Accused::Nobility# tacitly refutes the rumours levelled again oneself in recent weeks: \"Know that I was guest at #Location A::Domain# almost all evening long - no, it is not my place to justify it, but at #Location A::Domain# I was! - and as such it is a patent and bold-faced falsehood on #Survivor::Family Name#'s part that I held up their damn carriage in #Location B::Domain#!\". Reader, know that for legal reasons it is *not necessarily* this paper's editorial position that #Editorial::Christian Name# is lying...": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONTINUED AMBUSHES OF THE BLOODY BRIGAND" ]
+    ],
+    "Innocent": [
+
+    ],
+    "Survivor": [
+
+    ],
+    "Extra A": [
+
+    ],
+    "Extra B": [
+
+    ],
+    "Accused": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent" ]
+    ],
+    "Location A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent/Extra A/Extra B" ],
+      [ "TEMPLATE ID", "!=", "Accused" ]
+    ],
+    "Location B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent/Survivor/Extra A/Extra B" ],
+      [ "TEMPLATE ID", "!=", "Location A" ]
+    ],
+    "Editorial": [
+      [ "TEMPLATE ID", "=>", "Survivor/Accused" ]
+    ]
+  },
+
+  "In one of London's premier dining societies, it is common knowledge that a #Culprit::Nobility# #Culprit::Christian Name# #Culprit::Family Name# of #Culprit::Domain# is a swindler, a huckster, and indeed a fraud. Of course, whether the the old boys on the committee intend to act on these revelations is quite another matter...": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ]
+    ]
+  },
+  "At one of #Host::Nobility# #Host::Family Name#'s highly-exclusive poker evenings, accusations of foul play! An anonymous housekeeper speaks of the gentlemen's uproar, with shouts of \"#Accusation A::Christian Name# palmed that bloody Ace!\" and \"Choke on coniine, #Accusation B::Family Name#, you cad!\" ringing down the halls. (To the notoriously litigious party concerned, please note - Ladies' Fortnightly by no means questions the legitimacy of #Litigator::Christian Name#'s recent winning streak.)": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Player A": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Player B": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Extra": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Host": [
+      [ "TEMPLATE ID", "=>", "Culprit/Player A/Player B/Extra" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Accusation A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Player A" ]
+    ],
+    "Accusation B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Player B" ]
+    ],
+    "Correct Accusation": [
+      [ "TEMPLATE ID", "=>", "Accusation A/Accusation B" ],
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ]
+    ],
+    "Litigator": [
+      [ "TEMPLATE ID", "=>", "Culprit/Player A/Player B/Extra" ],
+      [ "Gender", "=>", "man" ]
+    ]
+  },
+  "Has the 'High Society Swindler' struck again? The party affected is unequivocal in their account of the matter: \"#Guest A::Christian Name# and #Guest B::Christian Name#, bad as each other! At #Host::Domain# last summer, the #Talker::Nobility# cornered me over cocktails - said they'd heard about an 'off-shore futures opportunity', said it was `high-yield individuals only', `too good to be true'... Now I can't say they *forced* me to invest, but when they mentioned the monthly 8% return... -No, one of them made off with the whole #Rube::Family Name# fortune, blast it, I just can't prove which!\"": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ]
+    ],
+    "Investor A": [
+
+    ],
+    "Investor B": [
+
+    ],
+    "Idiot": [
+      [ "Headline", "=>", "THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL" ]
+    ],
+    "Investor": [
+      [ "TEMPLATE ID", "=>", "Investor A/Investor B" ]
+    ],
+    "Rube": [
+      [ "TEMPLATE ID", "=>", "Investor/Idiot" ]
+    ],
+    "Guest A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Investor A/Idiot" ],
+      [ "TEMPLATE ID", "!=", "Rube" ]
+    ],
+    "Guest B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Investor B/Idiot" ],
+      [ "TEMPLATE ID", "!=", "Rube/Guest A" ]
+    ],
+    "Host": [
+      [ "TEMPLATE ID", "=>", "Culprit/Investor A/Investor B/Idiot" ],
+      [ "TEMPLATE ID", "!=", "Rube" ]
+    ],
+    "Talker": [
+      [ "TEMPLATE ID", "=>", "Culprit/Investor A/Investor B/Idiot" ],
+      [ "Christian Name", "=>", "Guest A::Christian Name/Guest B::Christian Name" ]
+    ]
+  },
+  "The #Rube::Family Name# emerald is amiss! Could it have be purloined by the #Suspect A::Nobility#, that most frequent guest of the imperious house? Mayhaps a known rascal by the name of #Suspect B::Christian Name#? Or even (dare we say it, Reader?) a noble as respectable as #Suspect C::Family Name#?": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ]
+    ],
+    "Rube": [
+
+    ],
+    "Innocent A": [
+
+    ],
+    "Innocent B": [
+
+    ],
+    "Suspect A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent A/Innocent B" ]
+    ],
+    "Suspect B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent A/Innocent B" ],
+      [ "TEMPLATE ID", "!=", "Suspect A" ]
+    ],
+    "Suspect C": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent A/Innocent B" ],
+      [ "TEMPLATE ID", "!=", "Suspect A/Suspect B" ]
+    ]
+  },
+  "Whilst other (lesser) publications speak to the contrary, the nasty rumour that #Suspect A::Family Name# is bleeding the #Rube::Nobility# of #Rube::Domain#'s estate dry originates entirely in #Suspect B::Domain#. What you, dear Reader, should make of said rumour - that is surely beyond our humble journal's remit.": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ]
+    ],
+    "Rube": [
+
+    ],
+    "Innocent": [
+
+    ],
+    "Suspect A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent" ]
+    ],
+    "Suspect B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Innocent" ],
+      [ "TEMPLATE ID", "!=", "Suspect A" ]
+    ]
+  },
+  "Dear Reader, in would seem our well-intentioned paper makes a most erroneous error. After last issue's tittle-tattle about #Rube::Family Name#'s bounced cheques, an anonymous friend (whom readers will be surprised is not, in fact, #Source::Christian Name# #Source::Family Name#) tells all - the cheques circulating from #Location A::Domain# to #Location B::Domain# are none other than the master works of a master counterfeiter!": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER" ]
+    ],
+    "Rube": [
+
+    ],
+    "Friend": [
+
+    ],
+    "Extra A": [
+
+    ],
+    "Extra B": [
+
+    ],
+    "Source": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube/Friend" ]
+    ],
+    "Location A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube/Friend/Extra A" ]
+    ],
+    "Location B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube/Friend/Extra B" ],
+      [ "TEMPLATE ID", "!=", "Location A" ]
+    ]
+  },
+
+  "In a release from #Culprit::Domain#, #Culprit::Christian Name# #Culprit::Family Name# alleges the discovery of \"A truly anomalous proof... a beast of great mathematical portent, one to threaten the very underpinnings of reason itself...\". Several academics express skepticism over the #Culprit::Nobility#'s claims.": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ]
+  },
+  "In parishes and market squares across the county grows, murmurs of a local noble#Culprit::Gender# driven mad by study. A neighbour in #Neighbour::Domain# tells Ladies' Fortnightly: \"Oh, the usual. Speaking in tongues, observation of occult festivities... wouldn't be surprised about a sacrificial goat or two - ha! They're worriers though, #Friend A::Family Name# and #Friend B::Family Name#: came all the way down from #Visitor::Domain# to surprise our mutual friend, #Visitor::Christian Name# did... said they couldn't even get a foot in the door.\"": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Neighbour": [
+
+    ],
+    "Friend A": [
+
+    ],
+    "Friend B": [
+
+    ],
+    "Visitor": [
+      [ "TEMPLATE ID", "=>", "Friend A/Friend B" ]
+    ]
+  },
+  "For several months, the #Culprit::Nobility# - that most ascetic of academics - goes wholly unseen in public and private, zealous they are in their singular line of study. So why, dear Reader, does a #Witness::Nobility# now circulate that the noble#Guest::Gender# #Guest::Family Name# has taken sudden and immediate residency at none other than #Host::Domain#?": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Acolyte": [
+
+    ],
+    "Witness": [
+
+    ],
+    "Host": [
+      [ "TEMPLATE ID", "=>", "Culprit/Acolyte" ]
+    ],
+    "Guest": [
+      [ "TEMPLATE ID", "=>", "Culprit/Acolyte" ],
+      [ "TEMPLATE ID", "!=", "Host" ]
+    ]
+  },
+  "Cruel rumour mires the #Culprit::Family Name# name. While the #Source::Nobility# of #Source::Domain# maintains #Gossip A::Christian Name# and #Gossip B::Christian Name# are \"indulging an over-morbid imagination,\" certain circles believe a certain noble#Culprit::Gender#-cum-scholar as having given oneself to a crude form of self-experimentation...": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Friend": [
+
+    ],
+    "Gossip A": [
+
+    ],
+    "Gossip B": [
+
+    ],
+    "Source": [
+      [ "TEMPLATE ID", "=>", "Culprit/Friend" ]
+    ]
+  },
+  "Ladies Fortnightly' understands that summons are sent from #Culprit::Domain#, to the houses #Family A::Family Name#, #Family B::Family Name# and #Family C::Family Name#. The #Invitee A::Nobility# brags about an invite to a 'most profound celestial ceremony', while #Invitee B::Christian Name# takes sick with worry; there is no word on whether the last letter reaches #Invitee C::Domain# safely": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Family A": [
+
+    ],
+    "Family B": [
+
+    ],
+    "Family C": [
+
+    ],
+    "Invitee A": [
+      [ "TEMPLATE ID", "=>", "Family A/Family B/Family C" ]
+    ],
+    "Invitee B": [
+      [ "TEMPLATE ID", "=>", "Family A/Family B/Family C" ],
+      [ "TEMPLATE ID", "!=", "Invitee A" ]
+    ],
+    "Invitee C": [
+      [ "TEMPLATE ID", "=>", "Family A/Family B/Family C" ],
+      [ "TEMPLATE ID", "!=", "Invitee A/Invitee B" ]
+    ]
+  },
+
+  "Ladies' Fortnightly condemns the recent and indecent actions by #Culprit::Nobility# #Culprit::Christian Name# #Culprit::Family Name# of #Culprit::Domain#, who breaks off their much-lauded engagement to elope - and with a commoner, no less!": {
+    "Culprit": [
+      [ "Headline", "=>", "THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED" ]
+    ]
+  },
+  "Utmost congratulations to the #Family A::Family Name#s and #Family B::Family Name#s are in order! And fear not, #Betrothed::Christian Name#: we here at Ladies' Fortnightly are sure the saucy talk of late-night house-calls 'twixt #Location A::Domain# and #Location B::Domain# is pure conjecture...": {
+    "Culprit": [
+      [ "Headline", "=>", "THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED" ]
+    ],
+    "Betrothed": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Lover": [
+
+    ],
+    "Bride": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ],
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Groom": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Family A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ]
+    ],
+    "Family B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ],
+      [ "TEMPLATE ID", "!=", "Family A" ]
+    ],
+    "Location A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Lover" ]
+    ],
+    "Location B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Lover" ],
+      [ "TEMPLATE ID", "!=", "Location A" ]
+    ]
+  },
+  "Ladies' Fortnightly expresses its sincerest court-mandated apologies to one Lord and Lady #Groom::Christian Name# #Groom::Family Name#. It has been completely improprietous for us to republish any of those salacious rumours originating in #Location::Domain#, or indeed to infer any past association with the #Lover::Nobility# #Lover::Family Name#.": {
+    "Culprit": [
+      [ "Headline", "=>", "THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED" ]
+    ],
+    "Betrothed": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Lover": [
+
+    ],
+    "Bride": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ],
+      [ "Gender", "=>", "woman" ],
+      [ "Nobility", "!=", "Duchess" ]
+    ],
+    "Groom": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ],
+      [ "Gender", "=>", "man" ],
+      [ "Nobility", "!=", "Duke" ]
+    ],
+    "Location": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed/Lover" ]
+    ]
+  },
+  "Stop the presses - for Ladies' Fortnightly has come into a most inciting letter! The text contains (in no particular order) 1. A proclamation of love to one #Lover::Christian Name#, 2. An assurance that the sender is only marrying a #Betrothed::Family Name# for the money, 3. A suspicion that the #Witness::Nobility# \"may well be onto us\", and 4. a frankly unclear allusion to being positively trapped in #Location A::Domain# for the forseeable. It goes unsigned; from the water damage sustained by the envelope, it is left unclear whether the intended recipient lives in #Location B::Domain# - or if this is a return address.": {
+    "Culprit": [
+      [ "Headline", "=>", "THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED" ]
+    ],
+    "Betrothed": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Lover": [
+
+    ],
+    "Bride": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ],
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Groom": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Extra": [
+
+    ],
+    "Witness": [
+      [ "TEMPLATE ID", "=>", "Betrothed/Extra" ]
+    ],
+    "Location A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Betrothed/Lover" ]
+    ],
+    "Location B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Lover" ]
+    ]
+  },
+  "A hedonistic #Lover::Nobility# embarks on their next affair of the heart - this time with another #Lover::Gender#'s betrothed! But who is the mystery #Accused B::Gender#, the infidelitous cipher at the heart of it all? #Accuser A::Family Name# tells all: \"I hear they live in #Accused A::Domain#\"; another source (who expresses great desire to remain anonymous) flatly states the name as #Accused B::Christian Name#.": {
+    "Culprit": [
+      [ "Headline", "=>", "THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED" ]
+    ],
+    "Lover": [
+
+    ],
+    "Gossip A": [
+
+    ],
+    "Gossip B": [
+
+    ],
+    "Accuser A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Gossip A" ],
+    ],
+    "Accuser B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Gossip B" ],
+      [ "TEMPLATE ID", "!=", "Accuser A" ]
+    ],
+    "Accused A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Gossip A" ],
+      [ "TEMPLATE ID", "!=", "Accuser A" ]
+    ],
+    "Accused B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Gossip B" ],
+      [ "TEMPLATE ID", "!=", "Accuser B" ],
+      [ "Gender", "!=", "Lover::Gender" ]
+    ]
+  },
+  "Ever the bon viveurs, #Family A::Family Name#, #Family B::Family Name# and #Family C::Family Name# visit #Location::Domain# for a discrete night on the town. Reader, we can only assume #Friend A::Christian Name# and #Friend B::Christian Name# unawares of their dear friend's engagement overseas - otherwise, they would surely invene when the noble#Culprit::Gender# becomes so *entangled* with a reportedly-rather-attractive barkeep!": {
+    "Culprit": [
+      [ "Headline", "=>", "THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED" ]
+    ],
+    "Friend A": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ],
+      [ "Gender", "=>", "Culprit::Gender" ]
+    ],
+    "Friend B": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ],
+      [ "Gender", "=>", "Culprit::Gender" ]
+    ],
+    "Location": [
+
+    ],
+    "Family A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Friend A/Friend B" ]
+    ],
+    "Family B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Friend A/Friend B" ],
+      [ "TEMPLATE ID", "!=", "Family A" ]
+    ],
+    "Family C": [
+      [ "TEMPLATE ID", "=>", "Culprit/Friend A/Friend B" ],
+      [ "TEMPLATE ID", "!=", "Family A/Family B" ]
+    ]
+  },
+
+  "The #Culprit::Nobility# of #Culprit::Domain# is ruined! With this most recent financial foray falling to pieces, it would appear #Culprit::Christian Name# has finally squandered the last of the #Culprit::Family Name# inheritance - more's the pity!": {
+    "Culprit": [
+      [ "Headline", "=>", "THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL" ]
+    ]
+  },
+  "The #Rube::Nobility# gets into bed with Fortnightly's favourite spendthift! Through a rather baroque chain of deaths, wagers and sexual favours, #Investor A::Christian Name# comes into a small monastery on the #Location::Domain# county lines - and when it emerges the Benedictine monks there brew a mean tonic wine, #Investor B::Christian Name# devises a get-richer-quick scheme for the pair. '#Location::Domain# Brew', of course, debuts to limited success. The inaugural batch incapacitates a Bishop, and leaves the houses #Family A::Family Name# and #Family B::Family Name# most deeply mortified!": {
+    "Culprit": [
+      [ "Headline", "=>", "THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL" ]
+    ],
+    "Rube": [
+
+    ],
+    "Extra": [
+
+    ],
+    "Investor A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube" ]
+    ],
+    "Investor B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube" ],
+      [ "TEMPLATE ID", "!=", "Investor A" ]
+    ],
+    "Family A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube" ]
+    ],
+    "Family B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube" ],
+      [ "TEMPLATE ID", "!=", "Family A" ]
+    ],
+    "Location": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube/Extra" ]
+    ]
+  },
+  "Over one-too-many gins at the #Host::Domain# Gala, the #Accuser::Nobility# charges one attendant with high treason! #Defence A::Family Name# and #Defence B::Family Name# leap to the accused's defence, saying they made *that* donation out of pure philantrophy (though #Comment::Christian Name# adds privately: it was rather obvious the funds would be funnelled to arms dealers overseas...).": {
+    "Culprit": [
+      [ "Headline", "=>", "THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL" ]
+    ],
+    "Accuser": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Defence A": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Defence B": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Comment": [
+      [ "TEMPLATE ID", "=>", "Defence A/Defence B" ]
+    ],
+    "Host": [
+      [ "TEMPLATE ID", "=>", "Culprit/Accuser/Defence A/Defence B" ]
+    ]
+  },
+  "In an exclusive 'scoop', an acquaintance with an axe to grind (though curiously, not the #Source::Nobility#) provides a paper-trail out of #Investor A::Domain#, via *#Investor B::Domain#*, all the way to Western Austrailia's most notorious mine! While #Culprit::Christian Name#'s stake in the matter is wholly characteristic, Ladies' Fortnightly must ask - how does #Rube::Christian Name# live this 'Blood Diamond Debacle' down?": {
+    "Culprit": [
+      [ "Headline", "=>", "THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL" ]
+    ],
+    "Rube": [
+
+    ],
+    "Source": [
+
+    ],
+    "Investor A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube" ]
+    ],
+    "Investor B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Rube" ],
+      [ "TEMPLATE ID", "!=", "Investor A" ]
+    ]
+  },
+  "The #Seafarer A::Nobility# spends a lavish weekend with #Seafarer B::Christian Name# and #Seafarer C::Christian Name# aboard the `The Gorgeous #Namesake::Family Name#'. A frankly frivolous purchase, so named to impress #Culprit::Family Name#'s oldest friend... at any rate, Ladies' Fortnightly now understands the vessel despoiled by sickly disposition - we do hope #Incapacitated::Family Name# finds some sea legs soon!": {
+    "Culprit": [
+      [ "Headline", "=>", "THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL" ]
+    ],
+    "Guest A": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Guest B": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Extra": [
+
+    ],
+    "Seafarer A": [
+      [ "TEMPLATE ID", "=>", "Culprit/Guest A/Guest B" ]
+    ],
+    "Seafarer B": [
+      [ "TEMPLATE ID", "=>", "Culprit/Guest A/Guest B" ],
+      [ "TEMPLATE ID", "!=", "Seafarer A" ]
+    ],
+    "Seafarer C": [
+      [ "TEMPLATE ID", "=>", "Culprit/Guest A/Guest B" ],
+      [ "TEMPLATE ID", "!=", "Seafarer A/Seafarer B" ]
+    ],
+    "Namesake": [
+      [ "TEMPLATE ID", "=>", "Guest A/Guest B/Extra" ],
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Incapacitated": [
+      [ "TEMPLATE ID", "=>", "Culprit/Guest A/Guest B" ]
+    ]
+  },
+
+  "Late into another of the #Host::Nobility#'s grandiose affairs, several servants overhear a #Accuser::Gender# positively screaming: \"I *damn* you, you traitorous cur! I damn you, I damn your first-born son seven times, and seven generations thence! May your suppers turn to ash in your mouth, may your skin grow sickly, may every calf in all of #Culprit::Domain# be born two-headed and abominable! Oh yes, #Witness::Christian Name# told me everything, there's no sense in denying it-.\"": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER/THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED" ]
+    ],
+    "Accuser": [
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ],
+    "Witness": [
+
+    ],
+    "Extra": [
+
+    ],
+    "Host": [
+      [ "TEMPLATE ID", "=>", "Culprit/Accuser/Witness/Extra" ],
+      [ "Headline", "!=", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE" ]
+    ]
+  },
+  "With talk of an armoured shipment making its way to #Culprit::Domain#, one #Witness::Nobility# stands convinced the convoy contains none other than The Scrolls of Lake Baikal. But what would #Culprit::Family Name# want with this relic of the Siberian steppe? Could their deciphering really grant \"riches beyond riches, wealth beyond wealth\"? Or is the object of this purchase a matter immaterial, a trifle (say it softly, Reader) more... occult?": {
+    "Culprit": [
+      [ "Headline", "=>", "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE/THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL" ]
+    ]
+  }
+
+}

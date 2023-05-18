@@ -1,0 +1,17 @@
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\Honour Amongst Thieves.exe
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\Honour Amongst Thieves.deps.json
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\Honour Amongst Thieves.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\Honour Amongst Thieves.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\Honour Amongst Thieves.pdb
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.csproj.CopyComplete
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\refint\Honour Amongst Thieves.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.pdb
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\Honour Amongst Thieves.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Release\net6.0\ref\Honour Amongst Thieves.dll

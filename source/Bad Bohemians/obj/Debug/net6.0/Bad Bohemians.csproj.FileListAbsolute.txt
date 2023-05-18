@@ -1,0 +1,51 @@
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.exe
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.deps.json
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.pdb
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.AssemblyInfo.cs
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.csproj.CopyComplete
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\refint\Bad Bohemians.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.pdb
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.genruntimeconfig.cache
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\obj\Debug\net6.0\ref\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.exe
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.deps.json
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.runtimeconfig.json
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\bin\Debug\net6.0\Bad Bohemians.pdb
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.csproj.AssemblyReference.cache
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.AssemblyInfoInputs.cache
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.AssemblyInfo.cs
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.csproj.CoreCompileInputs.cache
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.csproj.CopyComplete
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\refint\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.pdb
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\Bad Bohemians.genruntimeconfig.cache
+C:\Users\samdr\Documents\GitHub\Procedural Whodunnits\Honour-Amongst-Thieves\MAT501 Coursework Submission\source\Honour Amongst Thieves\obj\Debug\net6.0\ref\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\bin\Debug\net6.0\Bad Bohemians.exe
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\bin\Debug\net6.0\Bad Bohemians.deps.json
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\bin\Debug\net6.0\Bad Bohemians.runtimeconfig.json
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\bin\Debug\net6.0\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\bin\Debug\net6.0\Bad Bohemians.pdb
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.csproj.AssemblyReference.cache
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.AssemblyInfoInputs.cache
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.AssemblyInfo.cs
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.csproj.CoreCompileInputs.cache
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.csproj.CopyComplete
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\refint\Bad Bohemians.dll
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.pdb
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\Bad Bohemians.genruntimeconfig.cache
+C:\Users\samdr\Documents\GitHub\MAT501-Bad-Bohemians-MASTER\source\Bad Bohemians\obj\Debug\net6.0\ref\Bad Bohemians.dll

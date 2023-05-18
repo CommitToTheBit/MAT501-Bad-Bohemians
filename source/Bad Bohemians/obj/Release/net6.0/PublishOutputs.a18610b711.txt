@@ -1,0 +1,6 @@
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\publish\Bad Bohemians.exe
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\publish\Bad Bohemians.dll
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\publish\Bad Bohemians.deps.json
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\publish\Bad Bohemians.runtimeconfig.json
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\publish\Bad Bohemians.pdb
+C:\Users\Sam\Documents\GitHub\Honour Amongst Thieves\Honour Amongst Thieves Code\Honour Amongst Thieves\bin\Release\net6.0\publish\Newtonsoft.Json.dll

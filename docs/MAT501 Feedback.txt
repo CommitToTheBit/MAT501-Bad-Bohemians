@@ -1,0 +1,11 @@
+GRADE: A+
+
+OVERALL FEEDBACK:
+## Application/Video
+A high-quality application that shows how the programme is operating. 
+An excellent effort that shows significant attention to detail in the writing of the programme and of the text descriptions used in the game.
+
+## Report
+An ambitious, passionate and well-written report that critically discusses important concepts with reference to the literature. 
+The construction of the text of the clues was explained very well, along with a clear definition of optimality. 
+This formulated the puzzle as a constraint optimisation problem in a creative and original way.

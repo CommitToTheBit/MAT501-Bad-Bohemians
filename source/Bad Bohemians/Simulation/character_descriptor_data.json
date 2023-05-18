@@ -1,0 +1,165 @@
+{
+  "Christian Name": {
+    "Lazarus": [
+      [ "Gender", "=>", "man" ]
+    ],
+    "Charles": [
+      [ "Gender", "=>", "man" ]
+    ],
+    "Charlotte": [
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Cecil": [
+      [ "Gender", "=>", "man" ]
+    ],
+    "Percival": [
+      [ "Gender", "=>", "man" ]
+    ],
+    "Quentin": [
+      [ "Gender", "=>", "man" ]
+    ],
+    "Oliver": [
+      [ "Gender", "=>", "man" ]
+    ],
+    "Abigail": [
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Chastity": [
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Florence": [
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Cassandra": [
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Adeline": [
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Patrick": [
+      [ "Gender", "=>", "man" ]
+    ]
+  },
+  "Family Name": {
+    "Hartnell": [
+
+    ],
+    "Blanc": [
+
+    ],
+    "Byron": [
+
+    ],
+    "Caine": [
+
+    ],
+    "Sallow": [
+
+    ],
+    "Ambrose": [
+
+    ],
+    "Pope": [
+
+    ],
+    "Gladley": [
+
+    ],
+    "Muldew": [
+
+    ],
+    "Flanders": [
+
+    ]
+  },
+  "Nobility": {
+    "Duke": [
+      [ "Nobility", ">", "Marquess" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Marquess": [
+      [ "Nobility", ">", "Earl" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Earl": [
+      [ "Nobility", ">", "Viscount" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Viscount": [
+      [ "Nobility", ">", "Baron" ],
+      [ "Gender", "=>", "man" ]
+    ],
+    "Baron": [
+      [ "Gender", "=>", "man" ]
+    ],
+    "Duchess": [
+      [ "Nobility", "=", "Duke" ],
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Marchioness": [
+      [ "Nobility", "=", "Marquess" ],
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Countess": [
+      [ "Nobility", "=", "Earl" ],
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Viscountess": [
+      [ "Nobility", "=", "Viscount" ],
+      [ "Gender", "=>", "woman" ]
+    ],
+    "Baroness": [
+      [ "Nobility", "=", "Baron" ],
+      [ "Gender", "=>", "woman" ]
+    ]
+  },
+  "Domain": {
+    "Govesmarch": [
+
+    ],
+    "Troughton-On-Sea": [
+
+    ],
+    "Hanley Heath": [
+
+    ],
+    "Llanhall": [
+
+    ],
+    "Westridge Wells": [
+
+    ],
+    "Peckwell": [
+
+    ],
+    "Addleston": [
+
+    ],
+    "Maybury": [
+
+    ],
+    "Churcham": [
+
+    ],
+    "St Antonine's Wood": [
+
+    ]
+  },
+  "Headline": {
+    "THE CONTINUED AMBUSHES OF THE BLOODY BRIGAND": [
+
+    ],
+    "THE CURIOUS IDIOSYNCRACIES OF THE WELL-READ RECLUSE": [
+
+    ],
+    "THE SERIALISED INFIDELITIES OF THE UNHAPPILY-ENGAGED": [
+
+    ],
+    "THE CONFIDENCE TRICKS OF THE CONFIDENT TRICKSTER": [
+
+    ],
+    "THE INCREASINGLY-ERRANT INVESTMENTS OF THE WANTON WASTREL": [
+
+    ]
+  }
+}
